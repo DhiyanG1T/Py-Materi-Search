@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data pribadi (materi kuliah & hasil indexing)
+materi/
+index.json
+
+# Editor & OS
+.vscode/
+.DS_Store
+Thumbs.db

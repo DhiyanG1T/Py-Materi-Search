@@ -1,0 +1,7 @@
+pypdf
+python-docx
+python-pptx
+rich
+pytesseract
+pymupdf
+pillow
