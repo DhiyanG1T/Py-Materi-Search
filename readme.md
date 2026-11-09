@@ -376,4 +376,4 @@ Setiap extractor mengembalikan list `(lokasi, teks)`. Bagian lain program tidak 
 
 ---
 
-Dibuat oleh **Rafi** sebagai project pembelajaran Python, khususnya regex dan file handling.
+Dibuat oleh **Dhiyan Sigit** sebagai project pembelajaran Python, khususnya regex dan file handling.
